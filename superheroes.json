@@ -1,0 +1,60 @@
+[
+    {
+        "name": "superman",
+        "identity": {
+            "firstName": "clark",
+            "lastName": "kent"
+        },
+        "birthday": "1977-04-18",
+        "superpowers": [
+            "flight",
+            "strength",
+            "invulnerability"
+        ]
+    },
+    {
+        "name": "deadpool",
+        "identity": {
+            "firstName": "wade",
+            "lastName": "wilson"
+        },
+        "birthday": "1973-11-22",
+        "superpowers": [
+            "healing"
+        ]
+    },
+    {
+        "name": "batman",
+        "identity": {
+            "firstName": "bruce",
+            "lastName": "wayne"
+        },
+        "birthday": "1915-04-17",
+        "superpowers": null
+    },
+    {
+        "name": "aquaman",
+        "identity": {
+            "firstName": "arthur",
+            "lastName": "curry"
+        },
+        "birthday": "1986-01-29",
+        "superpowers": [
+            "flight",
+            "healing",
+            "strength"
+        ]
+    },
+    {
+        "name": "flash",
+        "identity": {
+            "firstName": "barry",
+            "lastName": "allen"
+        },
+        "birthday": "1992-09-30",
+        "superpowers": [
+            "speed",
+            "healing"
+        ]
+    }
+]
